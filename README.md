@@ -17,7 +17,7 @@ You can also disable and enable the selected AQI data mean at the left panel by 
 
 Project Files
 -------------
-Source code file (server.R and ui.R), data file (AQI.csv) and this README.md file are available in GitHub:
+Source code file (server.R and ui.R), data file (aqi.csv) and this readme.md file are available in GitHub:
 
 https://github.com/thongtom/DevelopDataProduct
 

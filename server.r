@@ -2,6 +2,7 @@
 library(shiny)
 library(lubridate)
 library(ggplot2)
+library(mgcv)
 
 shinyServer <- function (input, output) {
   dataAQI <-read.csv("aqi.csv", skip=1)

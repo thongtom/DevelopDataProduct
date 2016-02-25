@@ -36,7 +36,7 @@ shinyUI <- fluidPage(
 
              tabPanel("Info",
                       mainPanel(
-                        includeMarkdown("ReadMe.md")
+                        includeMarkdown("readme.md")
                       ) # mainPanel
              ) # tabPanel
 

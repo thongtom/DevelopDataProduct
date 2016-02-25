@@ -1,9 +1,9 @@
-Air Quality Index at LDG. ULU REMIS area for 2013-2015.
+
 Background
 ----------
 This Shiny application is the course project for Developing Data Products module.
 
-This Shiny App is to analyst the Air Quality Index for LDG. ULU REMIS area from year 2013 to 2015. The total number of observations is 13294 with 3 variables (date, hour and the AQI reading).
+This Shiny App is to analyst the Air Quality Index for LDG. ULU REMIS area from date 1 Aug 2013 to 5 Feb 2015. The total number of observations is 13294 with 3 variables (date, hour and the AQI reading).
 
 Manual
 ------
@@ -17,5 +17,7 @@ You can also disable and enable the selected AQI data mean at the left panel by 
 
 Project Files
 -------------
-Source code file (server.R and ui.R), data file (AQI.csv) and this README.md file are available in GitHub.
+Source code file (server.R and ui.R), data file (AQI.csv) and this README.md file are available in GitHub:
+
+https://github.com/thongtom/DevelopDataProduct
 

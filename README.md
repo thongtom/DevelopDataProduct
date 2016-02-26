@@ -7,7 +7,7 @@ This Shiny App is to analyst the Air Quality Index for LDG. ULU REMIS area from 
 
 Manual
 ------
-There are two main tab at the top of this Shiny App - Data Analyst and Info. Info will show this README information and manual on how to use this Shiny App. Data Analyst will show the data analyst screen, where it read the data from AQI.csv file and display the data.
+There are two main tab at the top of this Shiny App - Data Analyst and Info. Info will show this README information and manual on how to use this Shiny App. Data Analyst will show the data analyst screen, where it read the data from aqi.csv file and display the data.
 
 You select the data's year from dropdown box and select the month from the range slider, then the data table will display the data. If you want to see the chart, then click on the plot tab at the right panel. The default chart is point chart, if you click the "Line chart" checkbox below the chart, it will plot the smooth line chart.
 

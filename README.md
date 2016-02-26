@@ -13,7 +13,7 @@ You select the data's year from dropdown box and select the month from the range
 
 The data will reactive/response when you change the data's year or month range. 
 
-You can also disable and enable the selected AQI data mean at the left panel by select/unselect the "AQI mean"" checkbox.
+You can also disable and enable the selected AQI data mean at the left panel by select/unselect the "AQI mean" checkbox.
 
 Project Files
 -------------
